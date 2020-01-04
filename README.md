@@ -10,6 +10,6 @@ that will allows users to enter a playlist name or id and will return a list of 
 
 2. Clone this repo to your local machine and run:
 
-  $ python3 get_music.py
+      $ python3 get_music.py
  
 3. When prompted, enter the id of a YouTube channel for which you'd like to see a list of all songs or videos.
